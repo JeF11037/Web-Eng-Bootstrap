@@ -1,0 +1,19 @@
+:root {
+    --santa-red: rgb(214, 47, 47);
+    --santa-red-alpha: rgba(214, 47, 47, 0.507);
+    --santa-green: rgb(37, 133, 13);
+}
+
+.container-fluid {
+    padding: 0%;
+}
+
+.row {
+    margin: 0%;
+    padding: 0%;
+}
+
+#title {
+    background-color: var(--santa-red);
+}
+
